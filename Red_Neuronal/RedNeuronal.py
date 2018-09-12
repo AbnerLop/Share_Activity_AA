@@ -28,7 +28,7 @@ class RedNeuronal(object):
         '''
         self.inputs = 5
         self.outputs = 1
-        self.hidden = 20 #1,6,7,8,20, 40, 50, 100
+        self.hidden = 30 #1,6,7,8,20, 40, 50, 100
         self.W1 = np.random.randn(self.inputs, self.hidden)
         self.W2 = np.random.randn(self.hidden, self.outputs)
         self.Lambda = Lambda
