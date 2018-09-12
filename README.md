@@ -10,3 +10,5 @@ Se toma como base para determinar el precio:
 - Producción total de miel  
 - Acciones en manos de los productores (stocks) en la primer quincena de Diciembre del año anterior  
 - Año  
+
+#######Dataset obetnido de: https://www.kaggle.com/jessicali9530/honey-production
