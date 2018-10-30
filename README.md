@@ -11,4 +11,4 @@ Se toma como base para determinar el precio:
 - Acciones en manos de los productores (stocks) en la primer quincena de Diciembre del año anterior  
 - Año  
 
-###### Dataset obetnido de: https://www.kaggle.com/jessicali9530/honey-production
+###### Dataset obetnido de: https://www.kaggle.com/harlfoxem/housesalesprediction
